@@ -1,0 +1,26 @@
+body{
+  background-color: #e9ebee;
+}
+.img-fluid{
+  max-height: 147px ;
+}
+.m-title{
+  display:inline-block;
+  width:100%;
+  text-align: center;
+  font-size: 17px;font-weight: bolder;
+  color : darkblue;
+}
+footer{
+  background-color: #1c2331 ;color: white;
+}
+.footer-copyright{
+  background-color:black;
+  margin-left:-15px;margin-right:-15px;
+}
+footer ul li{
+  padding: 12px 0px 12px 0px;
+  color:lightblue;
+  margin: auto;
+  text-align: center;
+}
